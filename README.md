@@ -1,3 +1,5 @@
+[README](https://www.luogu.com.cn/article/xj6tkx5n)
+
 复制洛谷部分页面 Markdown 源代码。
 
 ## 使用
@@ -49,7 +51,3 @@ fix bugs.
 
 - 支持讨论区、工单等页面。
 - 更优雅的轮询方式。
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/6lri2otn.png)
-
-![](https://cdn.luogu.com.cn/upload/image_hosting/9kd73q6n.png)
