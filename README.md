@@ -12,6 +12,8 @@
 
 推荐使用 cos 方式进行安装，greasyfork 需要你有稳定的国际网络连接。
 
+- [GitHub Raw](https://github.com/LYkcul/copy-markdown/raw/refs/heads/main/copy_markdown.user.js)
+
 - [TencentCloud COS](https://script-1309350268.cos.ap-beijing.myqcloud.com/copy_markdown.user.js)
 
 - [greasyfork](https://greasyfork.org/zh-CN/scripts/545557-copy-markdown)
